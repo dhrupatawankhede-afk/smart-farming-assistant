@@ -1,0 +1,15 @@
+SMART FARMING ASSISTANT
+
+1. ESP32-CAM
+2. Soil Moisture Sensor
+3. Soil pH Sensor
+4. Temperature and Humidity Sensor
+5. Rain Sensor
+6. UV Sensor
+7. Power Supply
+8. Jumper Wires
+9. Breadboard
+
+Purpose:
+These components help monitor soil and environmental
+conditions and support smart farming decisions.
